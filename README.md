@@ -1,8 +1,5 @@
 <img src="Banner.png" alt="Girl in a jacket" >
 
-### Hi there 👋, My name is Ubaidullah
-#### React JS Developer & also UIUX Designer
-
 <div align="center">
 <p align="center">Let's connect!</p>
 <a href="https://www.twitter.com/RanaUbaidullah_/">
@@ -26,6 +23,11 @@
 </a>
 </div>
 <br>
+
+
+### Hi there 👋, My name is Ubaidullah
+#### React JS Developer & also UIUX Designer
+
 
 My name is Ubaidullah. Working on React JS👨‍💻 Tech lover 🤖, Web Developer💻 <br> and Robotic enthusiast🤖. Exploring new technologies in Web Development <br> Like Next JS.🌐
 
