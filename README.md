@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
-<a href="https://stackoverflow.com/users/10482516/ahmad-khan?tab=profile">
+<a href="https://stackoverflow.com/users/21005071/ubaidullah">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
 </div>
