@@ -1,6 +1,7 @@
+<img src="Banner.png" alt="Girl in a jacket" >
+
 ### Hi there 👋, My name is Ubaidullah
 #### React JS Developer & also UIUX Designer
-<img src="Banner.png" alt="Girl in a jacket" >
 
 <div align="center">
 <p align="center">Let's connect!</p>
