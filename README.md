@@ -11,8 +11,7 @@ Skills: HTML / CSS / JavaScript / React JS / Material UI / Strapi Headless CMS
 - 🔭 I’m currently working as a Freelancer. 
 - 🌱 I’m currently learning Next JS. 
 - 📫 How to reach me: Ubaidullahu449@gmail.com 
-- 💻 Developing beautiful Website in [React JS][React JS] with 💙
-- 🎓 Studied Computer Science from [PUCIT - University of the Punjab][pucit], Lahore, Pakistan
+- 💻 Developing beautiful Website in React JS with ❤
 - 😎 FUN FACT: I am Unstopable.
 
 
