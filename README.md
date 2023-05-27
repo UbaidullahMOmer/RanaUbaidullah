@@ -1,12 +1,9 @@
 ### Hi there 👋, My name is Ubaidullah
 #### React JS Developer & also UIUX Designer
 <img src="Banner.png" alt="Girl in a jacket" >
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+My name is Ubaidullah. Working on React JS👨‍💻 Tech lover 🤖, Web Developer💻 <br> and Robotic enthusiast🤖. Exploring new technologies in Web Development <br> Like Next JS.🌐
 
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-
+Skills: HTML / CSS / JavaScript / React JS / Material UI / Strapi Headless CMS
 
 
 
