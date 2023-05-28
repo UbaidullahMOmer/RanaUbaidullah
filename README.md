@@ -52,7 +52,7 @@ Skills: HTML / CSS / JavaScript / React JS / Material UI / Strapi Headless CMS
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img width=24px src="Strapi.png"></code>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ranaubaidullah&theme=solarized-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ranaubaidullah&theme=solarized-dark&hide_border=true&card_width=500)](https://git.io/streak-stats)
 
 
 
