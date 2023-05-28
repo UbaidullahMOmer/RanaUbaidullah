@@ -51,8 +51,8 @@ My name is Ubaidullah. Working on React JS👨‍💻 Tech lover 🤖, Web Devel
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img width=24px hight=24px src="Strapi.png"></code>
-<code><img width=24px src="figma.png"></code>
+<code><img width=24px  src="Strapi.png"></code>
+<code><img  hight=24px src="figma.png"></code>
 ### 📝 GitHub Stats</summary>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ranaubaidullah&theme=solarized-dark&hide_border=true&card_width=500)](https://git.io/streak-stats)
 
