@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Girl in a jacket" >
+
 
 <div align="center">
 <p align="center">Let's connect!</p>
